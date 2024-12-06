@@ -1,1 +1,1 @@
-This is a Sudoku solver wherein you enter the given clues(the given numbers) and the code solves it for you. It uses recursion and linked lists. This is a python code.
+This code solves Sudoku puzzles by entering the given clues (the provided numbers). It uses recursion and nested lists and is written in Python. An empty square is represented by a 0.
